@@ -8,9 +8,10 @@ Please see the [README](https://github.com/udacity/sagemaker-deployment/tree/mas
 
 The notebook and Python files provided here, are complete, result in a simple web app which interacts with a deployed recurrent neural network performing sentiment analysis on movie reviews. This project assumes some familiarity with SageMaker, the mini-project, Sentiment Analysis using XGBoost, should provide enough background.
 
-[image1]: ./img/Good1.png "Positive Review"
 
-[image2]: ./img/Mixed.png "Positive Review"
+<img src="Good_Review.png">
+
+<img src="Mixed_Review.png">
 
 ## Project Overview
 In this project, I have used Amazon SageMaker to explore, train and deploy the LSTM network for sentiment analysis. The goal of the project was to have a simple web page for the user to enter a movie review. The web page will communicate via an API to Amazon Lambda service which calls the end point for the deployed model.
