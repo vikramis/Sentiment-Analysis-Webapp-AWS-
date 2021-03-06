@@ -4,10 +4,9 @@ The notebook and Python files provided here, once completed, result in a simple 
 
 Please see the [README](https://github.com/udacity/sagemaker-deployment/tree/master/README.md) in the root directory for instructions on setting up a SageMaker notebook and downloading the project files (as well as the other notebooks).
 
-#Sentiment Analysis Model using SageMaker
+# Sentiment Analysis Model using SageMaker
 
-The notebook and Python files provided here, are complete, result in a simple web app which interacts with a deployed recurrent neural network performing sentiment analysis on movie reviews. This project assumes some familiarity with SageMaker, the mini-project, Sentiment Analysis using XGBoost, should provide enough background.
-
+The notebook and Python files provided here, are complete, result in a simple web app which interacts with a deployed recurrent neural network performing sentiment analysis on movie reviews. This project assumes some familiarity with SageMaker, the mini-project, Sentiment Analysis using XGBoost, should provide enough background. Some examples of the review results of the deployed webapp can be seen below.
 
 <img src="Good_Review.PNG">
 
